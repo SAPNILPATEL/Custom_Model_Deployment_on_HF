@@ -1,3 +1,9 @@
-numpy 
-gradio 
-catboost==1.2
+---
+title: Text Summarization
+emoji: 🤗
+colorFrom: yellow
+colorTo: orange
+sdk: gradio
+app_file: app.py
+pinned: false
+---
