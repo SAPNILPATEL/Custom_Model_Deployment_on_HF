@@ -1,1 +1,9 @@
-# Custom_Model_Deployment_on_HF
+---
+title: Text Summarization
+emoji: 🤗
+colorFrom: yellow
+colorTo: orange
+sdk: gradio
+app_file: app.py
+pinned: false
+---
